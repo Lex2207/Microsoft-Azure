@@ -1,1 +1,1 @@
-# osticket-prereqs
+# Microsoft Azure Utilization & VM Environments
