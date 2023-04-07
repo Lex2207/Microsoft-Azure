@@ -23,7 +23,7 @@
 </p>
 <p>
 
-In this section I will show how I checked the connectivity between the two VM environments to make sure that they are connected and can communicate back and forth. This is first ping to the from my Linux VM to the Windows VM (Using Wireshark to capture packets and see results) without the NSG blocking the ICMP connection. (ping -t)
+In this section I will show how I checked the connectivity between the two VM environments to make sure that they can communicate back and forth. This is first ping to the from my Linux VM to the Windows VM (Using Wireshark to capture packets and see results) without the NSG blocking the ICMP connection. (ping -t)
 </p>
 <br />
 <img src="https://i.imgur.com/bdDkQad.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
